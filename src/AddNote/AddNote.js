@@ -137,7 +137,7 @@ class AddNote extends React.Component {
 
           <div id="formButtons">
             <button
-              className="button"
+              className="cancleButton"
               type="button"
               onClick={this.handleClickCancel}
             >

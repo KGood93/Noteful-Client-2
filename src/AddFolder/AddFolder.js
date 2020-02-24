@@ -62,7 +62,7 @@ class AddFolder extends React.Component {
           </div>
 
           <div id="formButtons">
-            <button className="button" type="button" onClick={this.handleClickCancel}>
+            <button className="cancleButton" type="button" onClick={this.handleClickCancel}>
               Cancel
             </button>{" "}
             <button className="button" type="submit">Save</button>

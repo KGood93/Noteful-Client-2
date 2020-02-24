@@ -35,8 +35,7 @@
 }
 
 .folderLink:hover {
-    color: white;
-    background-color: slategray;
+    color: goldenrod;
 }
 
 .noteName:hover {

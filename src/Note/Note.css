@@ -8,12 +8,20 @@
     cursor: pointer;
 }
 
+.goBackButton:hover {
+    background-color: goldenrod;
+}
+
 p {
     margin: 30px;
 }
 
+.noteMain {
+    background-color: white;
+}
+
 .note {
-    border: 1px solid black;
+    background-color: #030f1f;
     margin: 20px;
     padding: 15px;
     position: relative;
@@ -23,6 +31,8 @@ p {
     font-size: 16px;
     line-height: 20px;
     padding: 10px 20px;
+    background-color: white;
+    margin: 20px;
 }
 
 .currentFolder {

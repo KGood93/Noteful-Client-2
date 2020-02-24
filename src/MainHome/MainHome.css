@@ -18,7 +18,7 @@
     display: block;
   }
   
-  .folderLink.hover {
+  .folderLink:hover {
     color: goldenrod;
   }
   
@@ -29,13 +29,13 @@
   }
   
   .mainContentLi {
-    border: 1px solid black;
     margin: 20px;
     padding: 15px;
     position: relative;
   }
   
   .noteHeader {
+    color: white;
     font-weight: bold;
     font-size: 18px;
   }
@@ -43,6 +43,7 @@
   .noteName,
   .noteModified {
     margin: 10px 0;
+    color: white;
   }
   
   .noteName {
